@@ -1,10 +1,10 @@
 ---
-name: deslopify
-description: "Restyle a page or product screen so it looks quiet and intentional instead of AI-generated. Use for /deslopify, or when asked to polish, redesign, or remove the generated look from an interface."
+name: polish-ui
+description: "Restyle a page or product screen so it looks quiet and intentional instead of AI-generated. Use for /polish-ui, or when asked to polish, redesign, or remove the generated look from an interface."
 disable-model-invocation: true
 ---
 
-# Deslopify
+# Polish UI
 
 Restyle an interface so it reads as one deliberate design, not a stack of generated defaults. Keep each screen's purpose and behavior. Change how it looks and moves, not what it does.
 
